@@ -4,11 +4,11 @@
  }
  
  body{
-    background: #242343;
+    background: red;
  }
  
  .container {
-    width: 100%;
+    width: 50%;
     min-height: 100vh;
     background: #242343;
     }
